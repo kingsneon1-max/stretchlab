@@ -6,9 +6,9 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0d1422",
+  "background_color": "#0b1220",
   "theme_color": "#101827",
-  "description": "Jadwal peregangan pagi dan malam yang bekerja offline.",
+  "description": "Jadwal peregangan pagi dan malam, panduan gerakan, timer, kalender dan progres offline.",
   "icons": [
     {
       "src": "icon-192.png",
